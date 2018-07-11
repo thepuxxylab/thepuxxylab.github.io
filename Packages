@@ -1,0 +1,13 @@
+Package: com.thepuxxylab.facedown
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: ThePuxxyLab <thepusssylab@gmail.com>
+Filename: /FaceDown.deb
+Size: 13226
+MD5sum: 5bd15879e6cce40e26585b79a9143795
+SHA1: 5142ea66c9223c61bc85bea7d1ef401ae0df0edf
+SHA256: b86168dd7d6c4aa6c1e28467da14c490ad6fb75ece6854f155026f8e9734cd6c
+Section: Tweaks
+Description: Test tweak
+Author: ThePuxxyLab <thepusssylab@gmail.com>
+Name: FaceDown

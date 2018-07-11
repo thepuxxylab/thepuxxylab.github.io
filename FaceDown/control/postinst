@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sleep 1
+echo "FaceDown has been installed."
+echo "Developed by @ronthakrar"
+sleep 1
